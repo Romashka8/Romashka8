@@ -61,7 +61,9 @@
 
 <hr/>
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Romashka8&show_icons=true&theme=radical)](https://github.com/Romashka8)
 
+<hr/>
 
 <!--
 **Romashka8/Romashka8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
