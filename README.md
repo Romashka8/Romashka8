@@ -61,7 +61,9 @@
 
 <hr/>
 
+<div align="center">
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Romashka8&show_icons=true&theme=radical)](https://github.com/Romashka8)
+</div>
 
 <hr/>
 
