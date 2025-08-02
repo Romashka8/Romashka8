@@ -17,7 +17,7 @@
 
 ## ✅Favorite repositories:
 <ul>
-  <li>⭐<a href="https://github.com/Romashka8/MlAlgorithms">ML Algoriths</a> - classic ML algorithms implementation.</li>
+  <li>⭐<a href="https://github.com/Romashka8/MlAlgorithms">ML Algorithms</a> - classic ML algorithms implementation.</li>
   <li>⭐<a href="https://github.com/Romashka8/AutoGrads">Autograds</a> - a repository with various approaches to automatic differentiation and the development of deep learning frameworks.</a></li>
   <li>⭐<a href="https://github.com/Romashka8/AutoML">AutoML</a> - my auto ML pipeline.</li>
   <li>⭐<a href="https://github.com/Romashka8/AmazonRecomendationSystem">Amazon Recomendation System</a> - building rec. system with Amazon data!</li>
