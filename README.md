@@ -6,7 +6,7 @@
 
 ## ✅About me:
 <ul>
-  <li>🧑‍🎓 I am a student of Applied Mathematics and Computer Science at the Russian University of Transport.</li>
+  <li>🧑‍🎓 I am a bachelor of Applied Mathematics and Computer Science at the Russian University of Transport(2026).</li>
   <li>🤖 I am passionate about ML and DL.</li>
   <li>🧑‍💻 Currently, I am a Data Scientist at Sberbank.</li>
   <li>⚙️I enjoy implementing ML/DL algorithms on my own.</li>
@@ -20,7 +20,9 @@
   <li>⭐<a href="https://github.com/Romashka8/MlAlgorithms">ML Algorithms</a> - classic ML algorithms implementation.</li>
   <li>⭐<a href="https://github.com/Romashka8/AutoGrads">Autograds</a> - a repository with various approaches to automatic differentiation and the development of deep learning frameworks.</a></li>
   <li>⭐<a href="https://github.com/Romashka8/AutoML">AutoML</a> - my auto ML pipeline.</li>
-  <li>⭐<a href="https://github.com/Romashka8/AmazonRecomendationSystem">Amazon Recomendation System</a> - building rec. system with Amazon data!</li>
+  <li>⭐<a href="https://github.com/Romashka8/UpliftNinja">UpliftNinja</a> - small and lightweight uplift library with some causal inference!</li>
+  <li>⭐<a href="https://github.com/Romashka8/txt2sql-Agent">UpliftNinja</a> - text2sql task solution via GigaChat-API!</li>
+  
 </ul>
 
 <hr/>
@@ -58,10 +60,6 @@
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
-
-<hr/>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Romashka8&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr/>
 
